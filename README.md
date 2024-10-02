@@ -1,16 +1,11 @@
 # watch_store_app
 
-A new Flutter project.
+A new Flutter watch store project.
 
-## Getting Started
+## screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2024-10-02 175301](https://github.com/user-attachments/assets/057f9de4-adf8-4e35-9a46-794efe213d49)
+![Screenshot 2024-10-02 175251](https://github.com/user-attachments/assets/445cf370-5195-4df4-adaa-642fdd43e133)
+![Screenshot 2024-10-02 175242](https://github.com/user-attachments/assets/d94c1c16-1197-46c6-b734-c81417b8bb7f)
+![Screenshot 2024-10-02 175235](https://github.com/user-attachments/assets/345801f8-8748-40fb-b443-205e41bd2a64)
+![Screenshot 2024-10-02 175219](https://github.com/user-attachments/assets/61ceec01-a3fd-4f2c-9d7c-93d79fd876d8)
